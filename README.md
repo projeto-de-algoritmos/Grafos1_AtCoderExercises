@@ -19,8 +19,14 @@ O exercício consiste em determinar se Cat Snuke, que está na Island 1, pode ch
 
 - [Solução](Soluções/CatSnukeandaVoyage.cpp)
 
+### Exercício 2:  [Peaks](https://atcoder.jp/contests/abc166/tasks/abc166_c)
+
+O exercício consiste em descobrir quantos bons observatórios existem em AtCoder Hill, para descobrir essa quantidade deve-se verificar se a altitude do observatório é superior aos demais observatório que podem ser alcançados a partir de Obs.i ultilizando apenas uma estrada.
+Para a solução temos um grafo em lista de adjacencia que guarda as ligacoes entre elas, apartir disso fazemos busca em largura (BFS) para encontramos os observatório desejados e paramos quando verificamos que a altura do observatório é menor do que os envolta.
+
+- [Solução](Soluções/Peaks.cpp)
+
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
 **Linguagem**: C++<br>
