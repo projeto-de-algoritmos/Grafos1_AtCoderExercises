@@ -33,6 +33,15 @@ Neste exercício, você recebe um grafo não direcionado com N vértices e M are
 
 ## Screenshots
 
+### Cat Snuke and a Voyage 
+![](Assets/catsnukeandvoyage.png)
+
+### Peaks
+![](Assets/peaks.png)
+
+### Count Simple Paths
+![](Assets/countpaths.png)
+
 ## Instalação 
 **Linguagem**: C++<br>
 
