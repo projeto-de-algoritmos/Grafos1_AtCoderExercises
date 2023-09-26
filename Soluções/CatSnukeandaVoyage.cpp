@@ -38,7 +38,7 @@ int BFS(int N, int M, vector<int>& a, vector<int>& b) {
       }
     }
 
-    distancia++; .
+    distancia++; 
   }
 
   return -1;
