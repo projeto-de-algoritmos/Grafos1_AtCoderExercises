@@ -1,4 +1,4 @@
-# NomedoProjeto
+# Exercícios do AtCoder e Codeforces
 
 **Número da Lista**: X<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
@@ -10,7 +10,7 @@
 | 19/0058455  |  Mariana Oliveira Pires do Rio |
 
 ## Sobre 
-Este projeto contém as resoluções de exercícios de Juiz Online que envolvem algoritmos de busca em largura (BFS) e busca em profundidade (DFS). 
+Este projeto contém as resoluções de exercícios de Juiz Online (AtCoder e Codeforces) que envolvem algoritmos de busca em largura (BFS) e busca em profundidade (DFS). 
 
 ### Exercício 1:  [Cat Snuke and a Voyage](https://atcoder.jp/contests/abc068/tasks/arc079_a)
 
@@ -31,6 +31,13 @@ Neste exercício, você recebe um grafo não direcionado com N vértices e M are
 
 - [Ir para solução](Soluções/CountSimplePaths.cpp)
 
+### Exercício 4:  [Badge](https://codeforces.com/contest/1020/problem/B)
+
+Na Summer Informatics School, quando os alunos nao se comportam bem os professores fazem um furo na "Badge", medalha, do aluno. e hoje um professor pegou um grupo de alunos fazendo "Bagunca", entao o professor faz um furo na medalha do aluno 'a', mas esse por sua vez acusa que o principal culpado foi o aluno 'pa' que tambem toma um furo em sua medalha, que por sua vez acusa que foi o 'ppa'. Por fim ele decide que o verdadeiro culpado, seria o aluno com dois furos em sua medalha.
+Para a resolução desse exercício pegamos os numeros de vértice e arestas, depois aplicamos uma DFS partindo de cada um dos vértice ate que ele chegue em algum que ja foi visitado e apartir disso ele indica qual o aluno foi acusado.
+
+- [Ir para solução](Soluções/Badge.cpp)
+
 ## Screenshots
 
 ### Cat Snuke and a Voyage 
@@ -41,6 +48,9 @@ Neste exercício, você recebe um grafo não direcionado com N vértices e M are
 
 ### Count Simple Paths
 ![](Assets/countpaths.png)
+
+### Badges
+![](Assets/badges.png)
 
 ## Instalação 
 **Linguagem**: C++<br>
