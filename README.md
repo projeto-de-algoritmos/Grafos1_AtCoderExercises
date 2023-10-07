@@ -52,13 +52,14 @@ Para a resolução desse exercício pegamos os numeros de vértice e arestas, de
 ![](Assets/badges.png)
 
 ## Instalação 
-Não é necessario instalação, as soluções podem ser submetidas nos sites:[AtCoder](https://atcoder.jp/) e [Codeforces](https://codeforces.com/).
+Não é necessario instalação, as soluções podem ser submetidas nos sites: [AtCoder](https://atcoder.jp/) e [Codeforces](https://codeforces.com/).
 
 **Linguagem**: C++<br>
 
 
 ## Apresentação
-Assista o vídeo explicativo do projeto clicando [aqui](/Apresentação.mp4)
+Assista o vídeo explicativo do projeto clicando [aqui](/Apresentação.mp4). <br>
+*Observação: A apresentação está em formato .mp4, portanto, faça o download para assisti-la.*
 
 
 
